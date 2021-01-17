@@ -1,1 +1,1 @@
-# smf-distribution.github.io
+https://smf-distribution.github.io/
